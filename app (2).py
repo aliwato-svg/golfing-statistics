@@ -1,7 +1,7 @@
 import streamlit as st
 import pandas as pd
 
-# ---------- Helper functions ----------
+# ---------- Helper functions ---------
 
 def calculate_player_stats(pars, strokes):
     total_par = sum(pars)
